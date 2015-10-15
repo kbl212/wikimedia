@@ -1,4 +1,52 @@
 .container {
     width: 80%;
+    max-width: 600px;
     margin: 0 auto;
+    position: relative;
+}
+
+p {
+    line-height: 25px;
+    font-size: 18px;
+}
+
+.welcome {
+    position:absolute;
+    right: 0px;
+    font-weight:700;
+    
+}
+
+.row-one {
+    margin-top: 100px;
+}
+
+.row-one img{
+    width: 20%;
+    margin: 2%;
+}
+
+.row-two img{
+    width: 20%;
+    margin: 2%;
+}
+
+.row-three img {
+    width: 20%;
+    margin: 2%;
+}
+
+.row-four img {
+    width: 20%;
+    margin: 2%;
+}
+
+.cool-line {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+    line-height: 20px;
+    font-size: 14px;
 }
